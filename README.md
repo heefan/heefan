@@ -1,4 +1,4 @@
-# Let Code Talk
+# Talk is cheap; prove it by doing it.
 
 !ScriptKid      
 && !HelloWorldBragger      
