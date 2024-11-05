@@ -1,9 +1,9 @@
 # Let Code Talk
 
-!ScriptKid 
-&& !HelloWorldBragger 
-&& !SelfProclaimedArchitect     
-&& !SocialEngineer     
+!ScriptKid      
+&& !HelloWorldBragger      
+&& !SelfProclaimedArchitect         
+&& !SocialEngineer      
 && !PretentiousEngineer     
 && !OnlineArticleEvangelist     
 && !SelfVerifiedExpert       
