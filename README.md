@@ -6,13 +6,21 @@
 >If you support me, I support you too.    
 >If you hate me, I don’t care.    
 >Life goes on with or without you.    
-> -- DONALD TRUMP    
+>           -- DONALD TRUMP    
 
-Some people say that "Talk is cheap, show me the code" is outdated, because we’re in the era of "social" programming, where talk is mainstream, and there’s no need to show code.     
-They like to brag and then tell their "subordinates" to make it happen. 
-Or, this is the motivation to be a "boss"      
+Some argue that the classic saying, “Talk is cheap, show me the code,” is outdated.
+We’ve entered the era of “social programming,” where talk has become the norm, and showcasing actual code is deemed unnecessary.
 
-In the past, engineers wrote a lot of code, then compiled their knowledge into books, benefiting other engineers.     
-Now, social-media-type engineers mainly surf the web, with skills limited to "Hello World," installations, and running demos.       
-They're either clickbait writers or share short reposts from others and focus on playing the role of an expert on social media and company.      
-Pah!
+For some, being a manager or “boss” is less about leading through action and more about boasting and delegating—pushing responsibilities onto others while taking credit for their work.     
+Sadly, this mindset seems to be prevalent among developers around me and even across the country. In this skewed culture, engineering appears devalued—a “cheaper” pursuit compared to talk or so called "idea".           
+In the past, engineers were builders. They wrote code, solved problems, and laid the foundation for a solid and reliable world.  
+
+Today, however, we see the rise of a new breed of social-media engineers.     
+They spend more time surfing the web than solving real-world problems.      
+Their expertise rarely extends beyond “Hello World,” basic installations, and running pre-made demos.       
+They write clickbait, re-share snippets from others, and focus on maintaining the illusion of expertise—on social media and within their organizations.
+
+What a disgrace to the true spirit of engineering.
+
+I embraced the spirit of open source, diving deep into the intricacies of programming to truly master their craft.        
+These were the engineers who didn’t just work for a paycheck—they pursued excellence, sought understanding, and aspired to be genuine innovators in their field.
