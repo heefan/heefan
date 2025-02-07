@@ -1,13 +1,5 @@
 # Talk is cheap; prove it by doing it.
 
->I’m too old to worry about who likes me and who dislikes me.    
->I have more important things to do.    
->If you love me ,I love you too.    
->If you support me, I support you too.    
->If you hate me, I don’t care.    
->Life goes on with or without you.    
->           -- DONALD TRUMP    
-
 Some argue that the classic saying, “Talk is cheap, show me the code,” is outdated.
 We’ve entered the era of “social programming,” where talk has become the norm, and showcasing actual code is deemed unnecessary.
 
