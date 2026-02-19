@@ -1,4 +1,4 @@
-# Talk is cheap; prove it by doing it.
+# Talk is still cheap; prove it by doing it.
 
 Some argue that the classic saying, “Talk is cheap, show me the code,” is outdated.
 We’ve entered the era of “social programming,” where talk has become the norm, and showcasing actual code is deemed unnecessary.
